@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mohamed Elsaid Soliman Sarhan</h1>
-<h3 align="center">Data Scientist & Analyst | Information Systems Student</h3>
+<h3 align="center">Data Scientist & AI & Analyst | Information Systems Student</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-green?style=for-the-badge" alt="Status">
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 * 🎓 Senior year student in Information Systems at the Faculty of Computers and Information, Tanta University.
-* 💻 Trained at NTI and DEPI in Data Science, Data Analysis ,AI,  Machine Learning, Advanced SQL, and Business Intelligence.
+* 💻 Trained at NTI and DEPI in Data Science, Data Analysis ,AI,  Py, SQL, EXL, PBI, PDS, NMP, ML, DL, and Business Intelligence.
 * 💡 I turn raw tables into answers: cleaning messy data, modeling predictions, and building executive dashboards.
 * 🌐 **Portfolio Website:** [sarhan-folio.vercel.app](https://sarhan-folio.vercel.app)
 * 💼 **LinkedIn:** [Mohamed Elsaid Soliman Sarhan](https://www.linkedin.com/in/mohamedelssaid78/)
