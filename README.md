@@ -14,7 +14,7 @@
 * 💻 Trained at NTI and DEPI in Data Science, Data Analysis ,AI,  Machine Learning, Advanced SQL, and Business Intelligence.
 * 💡 I turn raw tables into answers: cleaning messy data, modeling predictions, and building executive dashboards.
 * 🌐 **Portfolio Website:** [sarhan-folio.vercel.app](https://sarhan-folio.vercel.app)
-- 💼 **LinkedIn:** [Mohamed Elsaid Soliman Sarhan](https://www.linkedin.com/in/mohamedelssaid78/)
+* 💼 **LinkedIn:** [Mohamed Elsaid Soliman Sarhan](https://www.linkedin.com/in/mohamedelssaid78/)
 ---
 
 ## 🛠️ Tech Stack & Tools
